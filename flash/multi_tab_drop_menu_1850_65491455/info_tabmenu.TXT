@@ -1,0 +1,14 @@
+Multi Tab-Drop Menu
+author: fordlobster@dangerbeuys.de 
+http://dangerbeuys.de
+
+Do whatever you want to do! Feedback is always welcome.
+
+- Needs Flash CS3 Authoring
+- Actionscript 3
+- Uses TweenLite for smooth Tweening (included) by http://blog.greensock.com/tweenliteas3/
+- Easy to customize
+- AS-Code in Root-Scene commented
+- Don't forget to embed your fonts when publishing into web-page.
+
+Have fun!

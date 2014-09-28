@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Piecemaker>
+  <Settings>
+    <imageWidth>980</imageWidth>
+    <imageHeight>300</imageHeight>
+    <segments>7</segments>
+    <tweenTime>1.2</tweenTime>
+    <tweenDelay>0.1</tweenDelay>
+    <tweenType>easeInOutBack</tweenType>
+    <zDistance>0</zDistance>
+    <expand>20</expand>
+    <innerColor>0x111111</innerColor>
+    <textBackground>0x0064C8</textBackground>
+    <shadowDarkness>100</shadowDarkness>
+    <textDistance>25</textDistance>
+    <autoplay>12</autoplay>
+  </Settings>
+  <Image Filename="/slider/simple_img_1.png">
+    <Text>
+      <headline>RIT MSA</headline>
+      <break>Ӂ</break>
+      <paragraph>(Muslim Student Association) is here to help your experience here in RIT a comfortable and smooth experience for your needs. We are here to help you, my brothers and sisters, as much as we can so you can call RIT your second home. </paragraph>
+      <break>Ӂ</break>
+      <a href="http://www.icpcyouth.com/camp-information/" target="_blank">Want to learn more!</a>
+    </Text>
+  </Image>
+  <Image Filename="slider/simple_img_2.png">
+    <Text>
+      <headline>Interfaith</headline>
+      <break>Ӂ</break>
+      <paragraph>Is a dialogue between all participating religious groups. From Christans to Jews to Muslims and much more.</paragraph>
+      <break>Ӂ</break>
+      <a href="http://www.icpcyouth.com/camp-information/" target="_blank">Want to learn more!</a>
+    </Text>
+  </Image>
+  <Image Filename="slider/simple_img_3.png">
+    <Text>
+      <headline>Importance of Prayer</headline>
+      <break>Ӂ</break>
+      <paragraph>Worship Allah through Salah. There is nothing better you can do in life except to worship Allah. Call on Allah. Allah wants you to call on him for help, for guidance, for anything, He is Ar-Razzaq (The Provider). He will answer when you call, He is Al-Mujib (The Responder to Prayer).</paragraph>
+      <break>Ӂ</break>
+      <inline>This is HTML text loaded from the external XML file and formatted with an external CSS file. So it's pretty simple to set this text. You can also easily add</inline>
+      <a href="http://www.modularweb.net/piecemaker" target="_blank">Ӂhyperlinks</a>
+      <paragraph>. This one leads you to the official Piecemaker website, by the way.</paragraph>
+    </Text>
+  </Image>
+    <Image Filename="slider/simple_img_4.png">
+    <Text>
+      <headline>Focus...</headline>
+      <break>Ӂ</break>
+      <paragraph>Have Taqwá(God consciousness) not only during your 5 daily salah but also throughout your entire day. You should fear/ and remember Allah 24/7. The more Taqwá you have in your hear the more it will be easier for you to remember Allah during your salah; and especially when your most close to your Creator (Al-Khaliq) during sujood.</paragraph>
+      <break>Ӂ</break>
+      <inline>This is HTML text loaded from the external XML file and formatted with an external CSS file. So it's pretty simple to set this text. You can also easily add</inline>
+      <a href="http://www.modularweb.net/piecemaker" target="_blank">Ӂhyperlinks</a>
+      <paragraph>. This one leads you to the official Piecemaker website, by the way.</paragraph>
+    </Text>
+  </Image>
+    <Image Filename="slider/simple_img_5.png">
+    <Text>
+      <headline>Fajr (First Prayer)</headline>
+      <break>Ӂ</break>
+      <paragraph>Start your day with the remembrance of Al-Jalil (The Mighty). Get up and praise Allah by performing Fajr salah, for Allah is Al-Hamid (The Praised One). The Prophet (PBUH) began his day with Fajr so begin your day with Fajr salah as well.</paragraph>
+      <break>Ӂ</break>
+
+    </Text>
+  </Image>
+  </Piecemaker>
